@@ -1,4 +1,4 @@
-Neural Networks from Scratch (NNFS) - Project 3
+Neural Networks from Scratch
 
 A modular, framework-free implementation of a multi-layer neural network based on the book 'neural network from scratch' built entirely from scratch using Python and NumPy. This project is part of a custom educational implementation exploring deep learning fundamentals, core mathematical operations, activation functions, loss calculations, backpropagation, and momentum-based weight optimization.
 
